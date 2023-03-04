@@ -3,7 +3,7 @@
 Team: <h2>**SEB**</h2>
 **S**zymon Jankowski, **E**milia Marchwiany, **B**artosz Bury
 
-Wstępny zarys projketu
+Wstępny zarys projektu
 
 What:
 
