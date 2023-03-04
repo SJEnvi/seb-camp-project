@@ -5,17 +5,17 @@ Team: <h2>**SEB**</h2>
 
 Wstępny zarys projektu
 
-What:
+**What:**
 
 Wyszukiwarka pól namiotowych i kepmingowych
 
 
-Why:
+**Why:**
 
 Na pobecnym rynku polski brakuje tego rodzaju aplikacji webowych, badź są one nieaktulanie.
 
 
-How:
+**How:**
 
 - aplikacja webowa HTML/CSS
 - zaimletowana bibloteka mapy leaflet /open street map
